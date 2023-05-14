@@ -1,2 +1,5 @@
 defaults:
   weather_api_key: '08410658640649d0953171552231005'
+  google_client_id:  '582302352415-3c543c73vfeg6dnld2v2qjd6k8fjg2dn.apps.googleusercontent.com'
+  google_client_secret: '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'
+  app_host: 'http://localhost:3000'
